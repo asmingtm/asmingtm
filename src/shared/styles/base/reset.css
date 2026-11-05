@@ -19,11 +19,7 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background: radial-gradient(
-        var(--clr-solid),
-        var(--clr-bgd),
-        black
-    );
+    background: var(--clr-bgd);
 }
 #root{
     display: grid;

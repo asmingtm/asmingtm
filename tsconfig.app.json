@@ -30,6 +30,7 @@
       "@features": ["./src/features/"],
       "@styles": ["./src/shared/styles/"],
       "@types": ["./src/shared/types/"],
+      "@components": ["./src/shared/components/"],
       "@assets/*": ["./src/assets/*"]
     }
   },

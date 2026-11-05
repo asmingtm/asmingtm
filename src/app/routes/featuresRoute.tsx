@@ -1,5 +1,5 @@
 import type { RouteObject } from "react-router";
-import { LandingPage } from "@features";
+import { ContactPage, LandingPage, ProjectsPage } from "@features";
 
 export const featuresRoutes: RouteObject[] = [
     {
@@ -8,10 +8,10 @@ export const featuresRoutes: RouteObject[] = [
     },
     {
         path: "/projects",
-        element: "ProjectsPage"
+        element: <ProjectsPage />
     },
     {
         path: "/contact",
-        element: "ContactPage"
+        element: <ContactPage />
     },
 ];

@@ -1,0 +1,42 @@
+.navbar{
+    display: flex;
+    padding: 0.5em;
+    gap: 0.4em;
+}
+.navigator{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.4em;
+    padding: 0.68em 1em;
+    background: var(--clr-solid);
+    border-radius: var(--bdr-radius);
+    text-decoration: none;
+}
+.navigator-icon{
+    font-size: 1.2em;
+    fill: var(--clr-icon);
+}
+.navigator-label{
+    color: var(--clr-summary);
+    line-height: 0;
+    padding-top: 0.1em;
+}
+
+/* States */
+
+.navigator-active{
+    background: var(--clr-accent-reduced);
+
+    > .navigator-icon{
+        fill: var(--clr-primary);
+    }
+    > .navigator-label{
+        color: var(--clr-primary-raised);
+    }
+}
+@media (min-width: 400px) {
+    .navigator:not(.navigator-active):hover{
+        background: var(--clr-solid-raised);
+    }
+}
