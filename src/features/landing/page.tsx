@@ -15,7 +15,7 @@ export function LandingPage() {
         <main className="page page-landing">
             <TapeGroup />
             <div className="block">
-                <img className="block-banner" src="https://res.cloudinary.com/ejrekbzr/image/upload/v1792316547/road-block.png" alt="Road block ahead." draggable={false} />
+                <img className="block-banner" src="https://res.cloudinary.com/practice-backend-cloudinary/image/upload/v1792316547/road-block.png" alt="Road block ahead." draggable={false} />
                 <h1 className="block-title">Under Construction</h1>
                 <p className="block-summary">Sorry, it's not ready yet..</p>
             </div>
