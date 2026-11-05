@@ -5,6 +5,7 @@
 }
 
 .page-landing{
+    z-index: -2;
     position: relative;
     display: flex;
     flex-direction: column;
@@ -13,6 +14,12 @@
     gap: 0.5em;
     width: 100%;
     height: 100%;
+    background: radial-gradient(
+        var(--clr-solid),
+        var(--clr-bgd),
+        black
+    );
+
 }
 
 .page-landing > .block .block-title{
@@ -43,7 +50,7 @@
 }
 
 .tape{
-    z-index: -99;
+    z-index: -1;
     position: fixed;
     left: 50%;
     bottom: 10%;
@@ -81,4 +88,10 @@
     top: 12%;
     rotate: -10deg;
     animation: swing-4 4.8s infinite var(--tape-swing);
+}
+
+body:has(.page-landing){
+    .navbar{
+        position: absolute;
+    }
 }

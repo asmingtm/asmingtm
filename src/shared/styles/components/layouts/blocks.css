@@ -1,0 +1,119 @@
+.block{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+    width: 100%;
+    max-width: 400px;
+    padding: 1em;
+    border-radius: var(--bdr-radius);
+}
+.block-banner{
+    width: 100%;
+}
+.block-title, .block-summary{
+    user-select: none;
+    text-shadow: 0 3px 0 black;
+}
+.block-title{
+    z-index: 1;
+    position: relative;
+    font-size: 1.35em;
+    margin-bottom: 0.1em;
+}
+.block-summary{
+    color: var(--clr-summary);
+}
+
+.block-title::before{
+    content: '';
+    z-index: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    translate: -50% -50%;
+    width: 100%;
+    height: 50%;
+    padding: 0.4em 0.8em;
+    background: hsla(60, 100%, 50%, 0.05);
+}
+
+/* Project Page - BLOCKS */
+
+:root{
+    --project-icon-size: 6em;
+}
+
+.project-list{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(380px, 1fr));
+    list-style-type: none;
+    gap: 0.4em;
+    padding-inline: 1em;
+}
+.project-item{
+    cursor: pointer;
+    position: relative;
+    display: grid;
+    grid-template-columns: var(--project-icon-size) auto;
+    grid-template-rows: auto 1fr auto;
+    grid-template-areas:
+    "icon title"
+    "icon summary"
+    "icon tags";
+    background: var(--clr-solid);
+    padding: 1em;
+    border-radius: var(--bdr-radius);
+    column-gap: 1em;
+}
+.project-icon{
+    grid-area: icon;
+    width: var(--project-icon-size);
+    height: var(--project-icon-size);
+    border-radius: var(--bdr-radius);
+    background: var(--clr-solid-reduced);
+}
+.project-title{
+    grid-area: title;
+    font-size: 1.4em;
+    height: fit-content;
+}
+.project-summary{
+    font-size: 0.86em;
+    grid-area: summary;
+    color: var(--clr-summary);
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    padding-block: 0.32em;
+    padding-right: 2em;
+    max-height: 2.5lh;
+}
+.project-view{
+    position: absolute;
+    top: 50%; right: 0.6em;
+    translate: 0 -50%;
+    font-size: 1.8rem;
+    fill: var(--clr-icon);
+}
+.project-tags{
+    display: flex;
+    align-items: last baseline;
+    list-style-type: none;
+    gap: 0.25em;
+}
+.project-tags > li{
+    font-size: 0.8em;
+    color: var(--clr-icon);
+    background: var(--clr-solid-reduced);
+    border-radius: var(--bdr-radius);
+    padding: 0.4em 0.6em;
+    height: fit-content;
+}
+
+/* States */
+
+.project-item:hover{
+    background: var(--clr-solid-raised);
+}

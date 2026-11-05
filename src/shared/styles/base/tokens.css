@@ -8,7 +8,7 @@
     --clr-solid-reduced: hsl(0, 0%, 6%);
 
     --clr-label: hsl(0, 0%, 98%);
-    --clr-summary: hsl(0, 0%, 76%);
+    --clr-summary: hsl(0, 0%, 86%);
     --clr-icon: hsl(0, 0%, 52%);
 
     --clr-primary: hsl(260, 68%, 52%);
@@ -22,7 +22,7 @@
     --clr-error-reduced: hsl(0, 68%, 10%);
 
     --bdr-thick: 1px;
-    --bdr-radius: 6px;
+    --bdr-radius: 12px;
 
     --ani-delay: 100ms;
 }
