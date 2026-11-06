@@ -1,6 +1,14 @@
 # Hi, I'm Asmin Gautam
-I am gonna take it nice and slow to finish this site.
-### About me
-I primarily work with `ReactJS` and `ExpressJS`. I also make games in ROBLOX under `iotaStudio` community.
-### Contact
+I am a student at CCT, Nepal who is passionate in the field of computer science. You can checkout my repositories to see my projects.
+#### Skills
+I primarily work with these technologies:
+- `React`
+- `TypeScript`
+- `ExpressJS`
+- `Mongoose`
+- `Tailwind`
+- `Luau`
+#### Contact
 email: `asmingtm.me@gmail.com`
+
+[Click for full portfolio](https://asmingtm.vercel.app)
