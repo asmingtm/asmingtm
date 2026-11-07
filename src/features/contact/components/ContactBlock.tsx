@@ -1,5 +1,5 @@
 import { MdMail } from "react-icons/md";
-import { FaDiscord, FaGithub, FaInstagram, FaLinkedin, FaYoutube } from "react-icons/fa";
+import { FaGithub, FaInstagram, FaLinkedin, FaYoutube } from "react-icons/fa";
 import { FaXTwitter } from "react-icons/fa6";
 import { ContactItem } from "./ContactItem";
 import { SocialItem } from "./SocialItem";
