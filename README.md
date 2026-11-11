@@ -7,7 +7,7 @@ You can checkout my repositories to see my projects or open portfolio (link at t
 
 ## Contact
 Email:
-```
+```email
 asmingtm.me@gmail.com
 ```
 
