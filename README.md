@@ -12,5 +12,3 @@ asmingtm.me@gmail.com
 ```
 
 [click for full portfolio](https://asmingtm.vercel.app)
-
-> under construction!
