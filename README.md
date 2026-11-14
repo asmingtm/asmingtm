@@ -10,5 +10,8 @@ Email:
 ```email
 asmingtm.me@gmail.com
 ```
+```email
+iotastd@gmail.com
+```
 
 [click for full portfolio](https://asmingtm.vercel.app)
