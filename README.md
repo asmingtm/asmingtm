@@ -8,7 +8,7 @@ You can checkout my repositories to see my projects or open portfolio (link at t
 
 ## Contact
 Emails:
-[asmingtm.me@gmail.com](mailto:asmingtm.me@gmail.com?subject=For%20hire&body=Hey%20Asmin%20Gautam%2C%20we%20are%20interested%20in%20hiring%20you.)
+[asmingtm.me@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=asmingtm.me@gmail.com&su=For+hire&body=Hey+Asmin+Gautam,+we+are+interested+in+hiring+you.&utm_source=github.com)
 
 Socials:
 <div align="left">
