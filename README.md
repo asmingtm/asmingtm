@@ -1,13 +1,13 @@
 `For Hire`
 ## Hi, I'm Asmin Gautam
-I am a [M](https://www.mongodb.com/)[E](https://expressjs.com/)[R](https://react.dev/)[N](https://nodejs.org/en) stack developer with a keen eye for details. You can checkout my repositories to see my projects or open portfolio *(link at the bottom)*.
+I am a [M](https://www.mongodb.com/)[E](https://expressjs.com/)[R](https://react.dev/)[N](https://nodejs.org/en) stack developer with a keen eye for **details**. You can checkout [my repositories](https://github.com/asmingtm?tab=repositories) to see my projects or [open my portfolio](https://asmingtm.vercel.app).
 ## Languages and Tools
 <div align="left">
   <img src="https://skillicons.dev/icons?i=react,tailwind,redux,ts,express,mongodb,lua" />
 </div>
 
 ## Contact
-Emails:
+Email:
 [asmingtm.me@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=asmingtm.me@gmail.com&su=For+hire&body=Hey+Asmin+Gautam,+we+are+interested+in+hiring+you.&utm_source=github.com)
 
 Socials: *(click the icons to open)*
