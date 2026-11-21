@@ -1,6 +1,6 @@
 `For Hire`
 ## Hi, I'm Asmin Gautam
-You can checkout my repositories to see my projects or open portfolio (link at the bottom).
+I am a MERN stack developer. You can checkout my repositories to see my projects or open portfolio (link at the bottom).
 ## Languages and Tools
 <div align="left">
   <img src="https://skillicons.dev/icons?i=react,tailwind,redux,ts,express,mongodb,lua" />
