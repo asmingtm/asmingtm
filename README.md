@@ -20,4 +20,6 @@ Socials: *(click the icons to open)*
 
 ---
 
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-support-yellow?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/asmingtm)
+
 [click for full portfolio](https://asmingtm.vercel.app)
