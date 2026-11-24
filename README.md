@@ -3,7 +3,7 @@
 I am a [M](https://www.mongodb.com/)[E](https://expressjs.com/)[R](https://react.dev/)[N](https://nodejs.org/en) stack developer with a keen eye for **details**. You can checkout [my repositories](https://github.com/asmingtm?tab=repositories) to see my projects or [open my portfolio](https://asmingtm.vercel.app).
 ## Languages and Tools
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,redux,ts,express,mongodb,lua" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,redux,ts,express,mongodb,lua" alt="I use react, tailwind, redux, ts, express, mongodb and lua/luau" />
 </div>
 
 ## Contact
